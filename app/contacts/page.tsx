@@ -15,12 +15,12 @@ const contactInfo = [
   {
     icon: MapPin,
     title: "Адрес",
-    details: ["г. Москва, ул. Тверская, д. 12,", "БЦ Белая Площадь, офис 450"],
+    details: ["г. Йошкар-Ола, ул. Звездная, д. 77"],
   },
   {
     icon: Phone,
     title: "Телефон",
-    details: ["+7 (495) 123-45-67", "+7 (800) 555-35-35 (бесплатно)"],
+    details: ["+7 964 745 88 22"],
   },
   {
     icon: Mail,
@@ -225,7 +225,7 @@ export default function ContactsPage() {
             <div className="flex flex-col gap-8">
               <div className="overflow-hidden rounded-xl border border-border">
                 <iframe
-                  src="https://www.openstreetmap.org/export/embed.html?bbox=37.58%2C55.74%2C37.62%2C55.77&layer=mapnik"
+                  src="https://www.openstreetmap.org/export/embed.html?bbox=47.86%2C56.62%2C47.92%2C56.65&layer=mapnik"
                   width="100%"
                   height="350"
                   style={{ border: 0 }}
@@ -255,7 +255,7 @@ export default function ContactsPage() {
                   </span>
                   <span className="inline-flex items-center gap-2 text-sm text-foreground">
                     <span className="h-2 w-2 rounded-full bg-accent" />
-                    WhatsApp: +7 (495) 123-45-67
+                    WhatsApp: +7 964 745 88 22
                   </span>
                 </div>
               </div>
