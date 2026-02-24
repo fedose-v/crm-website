@@ -61,7 +61,7 @@ export default function AboutPage() {
 
             <div className="overflow-hidden rounded-xl border border-primary-foreground/10 shadow-2xl">
               <Image
-                src="../../public/images/team-office.jpg"
+                src="/crm-website/images/team-office.jpg"
                 alt="Команда FlowCRM в офисе"
                 width={800}
                 height={520}
