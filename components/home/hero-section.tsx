@@ -66,7 +66,7 @@ export function HeroSection() {
           <div className="relative">
             <div className="overflow-hidden rounded-xl border border-primary-foreground/10 shadow-2xl">
               <Image
-                src="/images/hero-dashboard.jpg"
+                src="/crm-website/images/hero-dashboard.jpg"
                 alt="FlowCRM Dashboard с BPMN конструктором бизнес-процессов"
                 width={800}
                 height={520}
