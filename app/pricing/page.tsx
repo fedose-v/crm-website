@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 const plans = [
   {
     name: "Старт",
-    price: "200 000",
+    price: "200 00",
     period: "/ мес",
     description: "Для небольших команд, начинающих автоматизацию.",
     features: [
@@ -28,7 +28,7 @@ const plans = [
   },
   {
     name: "Бизнес",
-    price: "500 000",
+    price: "500 00",
     period: "/ мес",
     description: "Оптимальный выбор для растущих компаний.",
     features: [
