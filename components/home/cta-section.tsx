@@ -7,7 +7,7 @@ export function CtaSection() {
         <div className="grid items-center gap-12 lg:grid-cols-2 lg:gap-16">
           <div className="overflow-hidden rounded-xl border border-border shadow-lg">
             <Image
-              src="/images/analytics-dashboard.jpg"
+              src="/crm-website/images/analytics-dashboard.jpg"
               alt="Аналитика и отчеты FlowCRM"
               width={700}
               height={460}
