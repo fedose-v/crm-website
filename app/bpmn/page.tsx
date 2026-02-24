@@ -96,7 +96,7 @@ export default function BpmnPage() {
 
             <div className="overflow-hidden rounded-xl border border-primary-foreground/10 shadow-2xl">
               <Image
-                src="/images/bpmn-constructor.jpg"
+                src="../../public/images/bpmn-constructor.jpg"
                 alt="BPMN Конструктор — визуальный редактор бизнес-процессов"
                 width={800}
                 height={520}
