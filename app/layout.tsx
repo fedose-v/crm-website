@@ -14,19 +14,19 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '../public/icon-light-32x32.png',
+        url: '/crm-website/icon-light-32x32.png',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '../public/icon-dark-32x32.png',
+        url: '/crm-website/icon-dark-32x32.png',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '../public/icon.svg',
+        url: '/crm-website/icon.svg',
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '/crm-website/apple-icon.png',
   },
 }
 
