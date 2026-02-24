@@ -8,6 +8,8 @@ const nextConfig = {
   },
   output: 'export',
   trailingSlash: true,
+  basePath: '/crm-website',
+  assetPrefix: '/crm-website/',    
 }
 
 export default nextConfig
